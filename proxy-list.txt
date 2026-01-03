@@ -404,5 +404,7 @@ IP address:Port CountryCode-Anonymity(Noa/Anm/Hia)-SSL_support(S)-Google_passed(
 162.55.26.132:31280 DE-N - 
 202.137.144.228:8080 LA-N-S - 
 52.191.208.232:80 US-H + 
+git clone https://github.com/KanekiWeb/Nitro-Generator/new/main
+>> pip install -r requirements.txt
 
 Free open HTTP/HTTPS(SSL) proxy list  - TXT format - updated hourly.
